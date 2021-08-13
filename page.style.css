@@ -1,0 +1,27 @@
+.maindiv{padding-left: 300px;}
+h2{color:blue;
+    text-decoration: underline;
+
+padding:30px;
+padding-left:30px;}
+.seconddiv p{color: blue;}
+.one{text-decoration: underline;}
+.terms{color: blue;
+text-decoration: underline;}
+button{background-color: whitesmoke;}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 2px;
+  }
+  .forms{ position: relative;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    display: inline-block;
+padding: 20px;}
+ 
+  
